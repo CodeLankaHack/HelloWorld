@@ -1,0 +1,27 @@
+[12-May-2016 14:02:26 Asia/Colombo] PHP Warning:  mysql_connect(): Access denied for user 'neeeecoh_User'@'smbiz.lankahost.net' (using password: YES) in /home/neeeecoh/public_html/Scripts/db_connect.php on line 28
+[12-May-2016 14:02:26 Asia/Colombo] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/neeeecoh/public_html/Scripts/db_connect.php on line 42
+[12-May-2016 15:46:26 Asia/Colombo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/neeeecoh/public_html/Scripts/map.php on line 63
+[12-May-2016 15:46:26 Asia/Colombo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/neeeecoh/public_html/Scripts/map.php on line 63
+[12-May-2016 15:46:49 Asia/Colombo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/neeeecoh/public_html/Scripts/map.php on line 63
+[12-May-2016 15:46:49 Asia/Colombo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/neeeecoh/public_html/Scripts/map.php on line 63
+[12-May-2016 15:49:11 Asia/Colombo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/neeeecoh/public_html/Scripts/map.php on line 63
+[12-May-2016 15:49:11 Asia/Colombo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/neeeecoh/public_html/Scripts/map.php on line 63
+[12-May-2016 15:50:30 Asia/Colombo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/neeeecoh/public_html/Scripts/map.php on line 63
+[12-May-2016 15:50:30 Asia/Colombo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/neeeecoh/public_html/Scripts/map.php on line 63
+[12-May-2016 17:16:37 Asia/Colombo] PHP Parse error:  syntax error, unexpected '{' in /home/neeeecoh/public_html/Scripts/map.php on line 79
+[13-May-2016 01:22:34 Asia/Colombo] PHP Parse error:  syntax error, unexpected '$statement' (T_VARIABLE) in /home/neeeecoh/public_html/Scripts/FetchDetails.php on line 6
+[13-May-2016 01:23:09 Asia/Colombo] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'neeeecoh_User'@'smbiz.lankahost.net' to database 'neeeecoh_TracerDB' in /home/neeeecoh/public_html/Scripts/FetchDetails.php on line 2
+[13-May-2016 01:23:09 Asia/Colombo] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, boolean given in /home/neeeecoh/public_html/Scripts/FetchDetails.php on line 6
+[13-May-2016 01:23:09 Asia/Colombo] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/neeeecoh/public_html/Scripts/FetchDetails.php on line 8
+[13-May-2016 01:23:09 Asia/Colombo] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/neeeecoh/public_html/Scripts/FetchDetails.php on line 9
+[13-May-2016 01:23:09 Asia/Colombo] PHP Warning:  mysqli_stmt_store_result() expects parameter 1 to be mysqli_stmt, null given in /home/neeeecoh/public_html/Scripts/FetchDetails.php on line 11
+[13-May-2016 01:23:09 Asia/Colombo] PHP Warning:  mysqli_stmt_bind_result() expects parameter 1 to be mysqli_stmt, null given in /home/neeeecoh/public_html/Scripts/FetchDetails.php on line 12
+[13-May-2016 01:23:09 Asia/Colombo] PHP Warning:  mysqli_stmt_fetch() expects parameter 1 to be mysqli_stmt, null given in /home/neeeecoh/public_html/Scripts/FetchDetails.php on line 15
+[13-May-2016 01:23:09 Asia/Colombo] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in /home/neeeecoh/public_html/Scripts/FetchDetails.php on line 25
+[13-May-2016 01:23:09 Asia/Colombo] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/neeeecoh/public_html/Scripts/FetchDetails.php on line 26
+[13-May-2016 01:33:23 Asia/Colombo] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, boolean given in /home/neeeecoh/public_html/Scripts/FetchDetails.php on line 14
+[13-May-2016 01:33:23 Asia/Colombo] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, boolean given in /home/neeeecoh/public_html/Scripts/FetchDetails.php on line 15
+[13-May-2016 01:33:23 Asia/Colombo] PHP Warning:  mysqli_stmt_store_result() expects parameter 1 to be mysqli_stmt, boolean given in /home/neeeecoh/public_html/Scripts/FetchDetails.php on line 17
+[13-May-2016 01:33:23 Asia/Colombo] PHP Warning:  mysqli_stmt_bind_result() expects parameter 1 to be mysqli_stmt, boolean given in /home/neeeecoh/public_html/Scripts/FetchDetails.php on line 18
+[13-May-2016 01:33:23 Asia/Colombo] PHP Warning:  mysqli_stmt_fetch() expects parameter 1 to be mysqli_stmt, boolean given in /home/neeeecoh/public_html/Scripts/FetchDetails.php on line 21
+[13-May-2016 01:33:23 Asia/Colombo] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/neeeecoh/public_html/Scripts/FetchDetails.php on line 31
