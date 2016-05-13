@@ -12,10 +12,10 @@ Proposed tracking device is consists of 2 components to acquire the machine’s 
 The details gathered for tracker device can be useful for many purposes. Back office can check the vehicles location real-time, can analyze past location updates etc.
 
 The details gathered from the tracking device can be used to calculate the availability and efficiency of the machine. To calculate the efficiency of the machine this module uses samples from Overall Equipment Effectiveness theory. When applying Overall Equipment Effectiveness to heavy machinery there are some special factors to be consider because OEE is not directly meant for construction machine monitoring. To measure Availability is a major metrics and it is totally based on time. The output getting from the tracking device can be directly used as valued for the availability factor. There is a special data entry also exists to insert the machine availability and downtimes to the system. By getting all the required values system is able to predict the 
-Equipment Utilization
-Process Equipment Utilization
-Potential Equipment Utilization
-Lost Capasity 
+Equipment Utilization,
+Process Equipment Utilization,
+Potential Equipment Utilization,
+Lost Capasity ,
 and finally the overall availability of the machine.
 
 Demo at : https://youtu.be/v9gxMRU3cbE
