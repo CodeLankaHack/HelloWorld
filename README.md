@@ -17,3 +17,5 @@ Process Equipment Utilization
 Potential Equipment Utilization
 Lost Capasity 
 and finally the overall availability of the machine.
+
+Demo at : https://youtu.be/v9gxMRU3cbE
